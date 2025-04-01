@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1668977890 source:c:\users\assas\downloads\z\c++\mt\p1\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Cliente.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+	"Empresa.h"
+
+1668969598 c:\users\assas\downloads\z\c++\mt\p1\fecha.h
+	<iostream>
+
+1668967033 c:\users\assas\downloads\z\c++\mt\p1\cliente.h
+	<iostream>
+	"Fecha.h"
+
+1667337876 source:h:\p1\cliente.cpp
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<sstream>
+	"Cliente.h"
+
+1667989318 h:\p1\cliente.h
+	<iostream>
+	"Fecha.h"
+
+1668594022 h:\p1\fecha.h
+	<iostream>
+
+1667988878 source:h:\p1\fecha.cpp
+	"Fecha.h"
+
+1668969598 source:c:\users\assas\downloads\z\c++\mt\p1\fecha.cpp
+	"Fecha.h"
+
+1668970021 source:c:\users\assas\downloads\z\c++\mt\p1\cliente.cpp
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<sstream>
+	"Cliente.h"
+
+1668969954 source:c:\users\assas\downloads\z\c++\mt\p1\contrato.cpp
+	"Contrato.h"
+
+1668976667 c:\users\assas\downloads\z\c++\mt\p1\contrato.h
+	<iostream>
+	"Fecha.h"
+
+1668971015 source:c:\users\assas\downloads\z\c++\mt\p1\contratomovil.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"Contrato.h"
+	"ContratoMovil.h"
+
+1668976648 c:\users\assas\downloads\z\c++\mt\p1\contratomovil.h
+	<iostream>
+	"Fecha.h"
+	"Contrato.h"
+
+1668976354 source:c:\users\assas\downloads\z\c++\mt\p1\contratotp.cpp
+	"ContratoTP.h"
+
+1668976648 c:\users\assas\downloads\z\c++\mt\p1\contratotp.h
+	<iostream>
+	"Fecha.h"
+	"Contrato.h"
+
+1668979056 source:c:\users\assas\downloads\z\c++\mt\p1\empresa.cpp
+	"Empresa.h"
+	"Fecha.h"
+	<cstdio>
+
+1668978010 c:\users\assas\downloads\z\c++\mt\p1\empresa.h
+	"Fecha.h"
+	"Cliente.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1668979217 source:c:\users\assas\downloads\z\c++\mt\p1\prueba1.cpp
+	<cstdlib>
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+
